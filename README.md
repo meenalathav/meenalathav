@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming, coding, solving analytical problems
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on Java, Python, R solutions
+- 💻 I use the Git CLI, GitHub Desktop GUI, GitKraken GUI
 - 📫 How to reach me : meenalatha.vaithilingam@gmail.com
 
 <!---
