@@ -2,12 +2,14 @@
 
 <h2>Thanks for swinging by! I'm Meena</h2><img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "50" align = "right" />
 
+<p>
 - 👋 Hi, I’m Meena Vaithi, a graduate student at the University of Colorado. 
 - 💻 I'm a [ Java | Python | C# | C++ | R ] programmer, a web app developer, an information systems analyst and designer
 - 💞️ I love programming, coding, building, solving analytical problems
 - 🌱 I’m currently learning Ruby
 - 👀 I’m looking to collaborate on Java, Python, R solutions
 - 📫 How to reach me : meenalatha.vaithilingam@gmail.com
+</p>
 
 
 ### 📈 &nbsp;My Dynamic GitHub Stats
@@ -15,7 +17,7 @@
 <p align="center">
 <a href="https://github.com/meenalathav">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
 </a>
 </p>
 
@@ -47,7 +49,7 @@
 
 ### 🔗 &nbsp;Reach Me At
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/meena-vaithi/"><img src="https://img.shields.io/badge/-Meena%20Vaithi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:meenalatha.vaithilingam@gmail.com"><img src="https://img.shields.io/badge/-Mail%20Me%20@-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
