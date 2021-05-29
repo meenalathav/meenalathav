@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Ruby
 - 👀 I’m looking to collaborate on Java, Python, R solutions
 - 📫 How to reach me : meenalatha.vaithilingam@gmail.com
-
-<img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "200" height = "200" align = "center" />  
+<br>
+<img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "700" height = "200" align = "center" />  
 
 <br>
 <hr>
