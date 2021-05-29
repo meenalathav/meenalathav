@@ -17,7 +17,7 @@
 ### 📈 My Dynamic GitHub Stats
 
 <a align = "left" href="https://github.com/meenalathav">
-  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
 
 <a align = "right" href="https://github.com/meenalathav">
