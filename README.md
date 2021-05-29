@@ -2,14 +2,13 @@
 
 <h2>Thanks for swinging by! I'm Meena</h2>
 
-<p>
 - 👋 Hi, I’m Meena Vaithi, a graduate student at the University of Colorado. 
 - 💻 I'm a [ Java | Python | C# | C++ | R ] programmer, a web app developer, an information systems analyst and designer
 - 💞️ I love programming, coding, building, solving analytical problems
 - 🌱 I’m currently learning Ruby
 - 👀 I’m looking to collaborate on Java, Python, R solutions
 - 📫 How to reach me : meenalatha.vaithilingam@gmail.com
-</p>
+
 <img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "200" height = "200" align = "center" />  
 
 
