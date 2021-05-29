@@ -16,18 +16,18 @@
 
 ### 📈 My Dynamic GitHub Stats
 
-<p align = "center">
-<a href="https://github.com/meenalathav">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
+<a align = "left" href="https://github.com/meenalathav">
+  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
-</p>
+
+<a align = "right" href="https://github.com/meenalathav">
+  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
+</a>
 
 <hr>
 
 ### 🧮 &nbsp;Skillset
 
-<p align = "center">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -50,7 +50,6 @@
 <!--![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)-->
-</p>
 
 <hr>
 
