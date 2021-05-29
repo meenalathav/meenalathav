@@ -1,6 +1,6 @@
 
 
-<h2>Thanks for swinging by! I'm Meena</h2><img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "100" height = "180em" align = "right" />
+<h2>Thanks for swinging by! I'm Meena</h2>
 
 <p>
 - 👋 Hi, I’m Meena Vaithi, a graduate student at the University of Colorado. 
@@ -10,7 +10,7 @@
 - 👀 I’m looking to collaborate on Java, Python, R solutions
 - 📫 How to reach me : meenalatha.vaithilingam@gmail.com
 </p>
-
+<img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "200" height = "200" align = "center" />  
 
 
 ### 📈 &nbsp;My Dynamic GitHub Stats
