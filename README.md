@@ -17,7 +17,12 @@
 <p align="center">
 <a href="https://github.com/meenalathav">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/meenalathav">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
 </a>
 </p>
 
