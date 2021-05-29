@@ -11,19 +11,20 @@
 
 <img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "200" height = "200" align = "center" />  
 
+<br>
+<hr>
 
-### 📈 &nbsp;My Dynamic GitHub Stats
-
+### 📈 My Dynamic GitHub Stats
 
 <a align = "left" href="https://github.com/meenalathav">
   <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 
-
 <a align = "right" href="https://github.com/meenalathav">
   <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
 </a>
 
+<hr>
 
 ### 🧮 &nbsp;Skillset
 
@@ -50,6 +51,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)-->
 
+<hr>
 
 ### 🔗 &nbsp;Reach Me At
 
