@@ -17,11 +17,11 @@
 ### 📈 My Dynamic GitHub Stats
 
 <a align = "left" href="https://github.com/meenalathav">
-  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meenalathav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 
 <a align = "right" href="https://github.com/meenalathav">
-  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=algolia&layout=compact" />
+  <img height="250" width = "350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meenalathav&langs_count=8&theme=tokyonight&layout=compact" />
 </a>
 
 <hr>
@@ -51,6 +51,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)-->
 
+<br><br>
 <hr>
 
 ### 🔗 &nbsp;Reach Me At
@@ -59,6 +60,9 @@
 <a href="https://www.linkedin.com/in/meena-vaithi/"><img src="https://img.shields.io/badge/-Meena%20Vaithi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:meenalatha.vaithilingam@gmail.com"><img src="https://img.shields.io/badge/-Mail%20Me%20@-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<br>
+<hr>
 
 <!---
 meenalathav/meenalathav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
