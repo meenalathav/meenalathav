@@ -7,7 +7,7 @@
 - 💞️ I love programming, coding, building, solving analytical problems
 - 🌱 I’m currently learning Ruby
 - 👀 I’m looking to collaborate on Java, Python, R solutions
-- 📫 How to reach me : meenalatha.vaithilingam@gmail.com
+- 📫 How to reach me : meena.v.acct@gmail.com
 <br>
 <img alt = "Coding animated" src = "./resources/gif/giphy_coding.gif" width = "700" height = "200" align = "center" />  
 
