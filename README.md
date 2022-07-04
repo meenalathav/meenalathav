@@ -58,7 +58,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/meena-vaithi/"><img src="https://img.shields.io/badge/-Meena%20Vaithi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:meenalatha.vaithilingam@gmail.com"><img src="https://img.shields.io/badge/-Mail%20Me%20@-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:meena.v.acct@gmail.com"><img src="https://img.shields.io/badge/-Mail%20Me%20@-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
